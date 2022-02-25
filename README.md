@@ -4,7 +4,7 @@ TFT LCD Breakout
 Copyright 2021 SuperHouse Automation Pty Ltd  www.superhouse.tv
 
 Designed to work with the Rack32 as a display for [Open eXtensible Rack System](https://oxrs.io/) 
-home automation projects. This breakout combines a 1.3″ 240×240 TFT 
+home automation projects. This breakout combines a 1.54″ 240×240 TFT 
 colour LCD, a 3D-printed spacer, a converter PCB with an IDC socket, 
 and 3D-printed mounting brackets.
 
@@ -18,7 +18,7 @@ you want a different mounting arrangement.
 
 Features:
 
- * 1.3" colour LCD
+ * 1.54" colour LCD
  * 240×240 resolution
  * SPI interface including CS (chip select) pin so it can share the bus with other devices
 
